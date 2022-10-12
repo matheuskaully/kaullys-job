@@ -27,6 +27,7 @@ Projeto prático utilizando tecnologias em Javascript.
 - Javascript
 - NodeJs
 - Handlebars
+- SQLite
 - Git e Github
 
 ## 💻 Para rodar:
