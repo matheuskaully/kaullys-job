@@ -32,6 +32,7 @@ Projeto prático utilizando tecnologias em Javascript.
 
 ## 💻 Para rodar:
 - Clone o repositório (git clone ou download)
+- Instale as dependências com o comando "npm install"
 - Abra a pasta com cmd (ou algum prompt) e rode o comando "npm run dev" (é necessário ter o nodejs instalado)
 - A aplicação ira rodar na porta 3000 (localhost:3000)
 
